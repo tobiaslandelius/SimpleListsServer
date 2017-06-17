@@ -9,7 +9,7 @@ public class Main {
      * @throws Exception
      */
     public static void main(String[] args) throws Exception {
-        System.out.println("Hello, World! System up and running !");
+        System.out.println("Hello, World! System up and running asd!");
         throw new Exception();
     }
 }
